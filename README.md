@@ -62,6 +62,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/about)
 * [Dimitri Pashutskii](https://dpashutskii.com/)
+* [Dinesh Khadka Lakai](https://lakai.dev/)
 * [Drew Bredvick](https://drewb.tech/about)
 
 ## E
